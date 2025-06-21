@@ -1,5 +1,5 @@
 #
-<h2 align="left"><h1>👋 Hi, I'm Aswin!<h1><br>🎓 B.Tech AI & Data Science | 🧠 Machine Learning Enthusiast | 📊 Data Explorer</h2>
+<h2 align="left">👋 Hi, I'm Aswin!<br>🎓 B.Tech AI & Data Science | 🧠 Machine Learning Enthusiast | 📊 Data Explorer</h2>
 
 ###
 
