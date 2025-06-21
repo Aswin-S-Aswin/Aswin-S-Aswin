@@ -31,7 +31,7 @@
 
 ###
 
-![Snake animation](https://raw.githubusercontent.com/SAswin/creative--profile/output/snake.svg)
+<img src="https://raw.githubusercontent.com/Aswin-S-Aswin/creative--profile/output/snake_animation.svg" alt="Snake animation" />
 
 ###
 
