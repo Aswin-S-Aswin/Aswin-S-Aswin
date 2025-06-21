@@ -31,7 +31,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Aswin-S-Aswin/Aswin-S-Aswin/creative--profile/snake_animation.yml" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/SAswin/creative--profile/output/snake.svg)
 
 ###
 
