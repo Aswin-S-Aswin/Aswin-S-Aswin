@@ -10,39 +10,25 @@
 
 
 
-<table>
-<tr>
-<td width="65%" valign="top">
+
 
 ## 🚀 About Me
-
-- 🎓 B.Tech **Artificial Intelligence & Data Science**
-- 💻 Passionate about **Software Development & AI**
-- 📊 Interested in **Data Analytics & Data Science**
-- 🤖 Exploring **Machine Learning & Generative AI**
-- 🐍 Currently working with **Python**
-- ☕ Learning and building projects with **Java**
-- 🗄️ Working with **SQL & Databases**
-- 🌐 Building projects using **HTML, CSS & JavaScript**
-- 🐳 Exploring **Docker & modern development tools**
-- ⚡ Always learning something new
-
-<br>
+<img src="https://i.imgflip.com/g9zb5.jpg" width="300" align="right">
 
 ### 💡 My Goal
 
-> **Learn → Build → Break → Fix → Improve 🚀**
+*Learn → Build → Break → Fix → Improve 🚀*
 
-</td>
-
-<td width="35%" align="center" valign="middle">
-
-<img src="https://i.imgflip.com/g9zb5.jpg" width="300">
-
-</td>
-</tr>
-</table>
-
+🎓 B.Tech **Artificial Intelligence & Data Science**  
+💻 Passionate about **Software Development & AI**  
+📊 Interested in **Data Analytics & Data Science**  
+🤖 Exploring **Machine Learning & Generative AI**  
+🐍 Currently working with **Python**  
+☕ Learning and building projects with **Java**  
+🗄️ Working with **SQL & Databases**  
+🌐 Building projects using **HTML, CSS & JavaScript**  
+🐳 Exploring **Docker & modern development tools**  
+⚡ Always learning something new
 ---
 
 ## 🛠️ Tech Stack
