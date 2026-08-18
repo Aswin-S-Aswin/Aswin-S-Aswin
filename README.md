@@ -151,8 +151,9 @@ Building responsive websites and experimenting with modern web technologies.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aswin-S-Aswin&show_icons=true&theme=tokyonight&hide_border=true" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswin-S-Aswin&layout=compact&theme=tokyonight&hide_border=true" height="180">
+
+  <img src="https://ghstats.dev/api/card?username=Aswin-S-Aswin&theme=nightowl" alt="GitHub Stats Card" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aswin-S-Aswin&theme=react&hide_border=true" alt="Git Status" />
 </p>
 
 ---
