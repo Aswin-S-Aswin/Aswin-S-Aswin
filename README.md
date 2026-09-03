@@ -154,10 +154,12 @@ Building responsive websites and experimenting with modern web technologies.
 
 ## 🐍 Contribution Snake
 
-<p align="center">
   
-     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aswin-S-Aswin/Aswin-S-Aswin/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aswin-S-Aswin/Aswin-S-Aswin/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Aswin-S-Aswin/Aswin-S-Aswin/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
@@ -173,9 +175,9 @@ Building responsive websites and experimenting with modern web technologies.
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="">
+<a href="https://www.reddit.com/user/Great-Albatross4199/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button">
 
-    <img src="https://img.shields.io/reddit/user-karma/:variant/:user" alt="" >
+<img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="reddit.com logo" />
 </a>
 
 </p>
